@@ -1,0 +1,23 @@
+table{
+  text-align: left;
+}
+p.ex {
+  width: 100px
+}
+th{
+  text-decoration: underline;
+  weight: bold;
+}
+table tr:nth-child(odd) td{
+  background: #7DB4B5;
+  color: #680148;
+}
+td{
+  background: #E0EFF1;
+}
+td:hover{
+  background: #000000;
+  color: #FFFFFF;
+}
+
+/* Color Palette adapted from: http://www.colourlovers.com/palette/132637/Odd_but_trendy */
